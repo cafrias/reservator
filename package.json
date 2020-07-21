@@ -1,0 +1,11 @@
+{
+  "name": "@reservator/root",
+  "private": true,
+  "packages": [
+    "packages/*",
+    "apps/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
